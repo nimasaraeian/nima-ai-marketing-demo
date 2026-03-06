@@ -90,3 +90,121 @@ Example:
   "confidence": 0.20,
   "recommended_fix": "Add clear value proposition above the form"
 }
+
+This structured output allows the system to be integrated into:
+
+marketing dashboards
+
+CRO pipelines
+
+AI decision support systems
+
+automated optimization workflows
+
+System Architecture
+
+The project is organized into modular components:
+
+app/
+    lead_scoring_demo.py
+
+architecture/
+    system_architecture.md
+
+docs/
+    system-overview.md
+    use-cases.md
+
+examples/
+    sample-analysis-output.json
+
+screenshots/
+    UI demonstration images
+
+The architecture separates:
+
+signal extraction
+
+behavioral inference
+
+decision diagnostics
+
+recommendation generation
+
+This modular approach allows integration with different marketing platforms.
+
+Technology Stack
+
+The production system uses a combination of:
+
+Python
+
+Behavioral data modeling
+
+Decision analysis frameworks
+
+AI-assisted interpretation layers
+
+This demo focuses on the decision intelligence logic rather than the full production stack.
+
+Use Cases
+Conversion Rate Optimization (CRO)
+
+Detect hidden friction before running experiments.
+
+Landing Page Evaluation
+
+Analyze trust signals and decision clarity.
+
+Marketing Diagnostics
+
+Understand behavioral causes behind low conversion rates.
+
+AI Decision Support
+
+Provide interpretable insights to marketing teams.
+
+Automated Marketing Intelligence
+
+Integrate behavioral analysis into marketing analytics pipelines.
+
+Important Note
+
+This repository intentionally excludes:
+
+proprietary AI models
+
+production datasets
+
+API keys
+
+internal infrastructure
+
+commercial optimization algorithms
+
+It is designed as a portfolio demonstration of the system's architecture and capabilities.
+
+About the Author
+
+Nima Saraeian
+
+AI Behavioral Marketing Strategist
+Decision Intelligence Systems Builder
+
+Focused on combining:
+
+artificial intelligence
+
+behavioral psychology
+
+marketing analytics
+
+decision science
+
+to build intelligent marketing systems.
+
+License
+
+MIT License
+
+This repository is intended for demonstration, learning, and portfolio purposes.
