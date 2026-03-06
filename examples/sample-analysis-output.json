@@ -1,1 +1,18 @@
+{
+  "analysis_type": "landing_page_evaluation",
+  "page_url": "https://example.com",
+  "trust_signal_level": "medium",
+  "friction_level": "high",
+  "cta_clarity": "moderate",
+  "visual_hierarchy": "needs_improvement",
+  "primary_issue": "Users may hesitate due to unclear value communication and weak trust reinforcement.",
+  "recommended_actions": [
+    "Strengthen trust indicators such as testimonials or guarantees",
+    "Improve CTA clarity and positioning",
+    "Reduce cognitive friction above the fold",
+    "Simplify headline messaging"
+  ],
+  "ai_summary": "The page communicates a potentially valuable offer but lacks strong trust reinforcement and clear action guidance. Improving trust cues and simplifying the decision path could increase conversions."
+}
 
+add sample AI analysis output
